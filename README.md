@@ -1,5 +1,7 @@
 # A1T1 STM32F407VET6 Blinky
 
+**Assignment Description:** Toggle the state of on-board LED for every 1 second to create blink effect
+
 **Group Name:** Smart Dolphins\
 **Owners:** Veknes Benjaman; Saw Jun Chao
 
