@@ -22,7 +22,7 @@
 
 [2] STM32F4VE Development Board - JTAG Header
 
-<center><img src="/pictures/ARM_JTAG_SWD_HEADER.png"></center>
+<center><img src="/pictures/ARM_JTAG_SWD_Header.png"></center>
 <center>Picture reference: [3]</center><br />
 
 <center>
